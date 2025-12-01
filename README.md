@@ -28,6 +28,12 @@ Email Me 👉 ✉️ aviiix1343@gmail.com For Collaboration/Project or Anything 
 ![](https://nirzak-streak-stats.vercel.app/?user=aviiixbuilds&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviiixbuilds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aviiixbuilds/aviiixbuilds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aviiixbuilds/aviiixbuilds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aviiixbuilds/aviiixbuilds/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aviiixbuilds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -41,3 +47,8 @@ Email Me 👉 ✉️ aviiix1343@gmail.com For Collaboration/Project or Anything 
 [![](https://visitcount.itsvg.in/api?id=aviiixbuilds&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
