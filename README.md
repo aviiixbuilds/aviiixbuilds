@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aviral Dwivedi
 
-### A passionate Computer Science Studen || Frontend developer || 
+### A passionate Computer Science Studen | Frontend developer  
 
 Email Me 👉 ✉️ aviiix1343@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
