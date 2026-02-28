@@ -1,4 +1,7 @@
-# 💫 Hi 👋, I'm Aviral Dwivedi
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+👋,+I'm+Aviral+Dwivedi;" alt="Typing SVG" />
+</div>
+
 
 ### A passionate Computer Science Studen | Frontend developer  
 
